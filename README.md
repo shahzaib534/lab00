@@ -59,3 +59,8 @@ These problems are deliberately open-ended. You have the flexibility to design t
 1. As you wrote this Python code, which concept felt the most unfamiliar?
 2. Did you encounter any technical issues during this lab?
 3. Looking back at Part 2, how did you logically verify that your `while` loop would not result in an infinite loop? 
+
+
+1. The most unfamiliar concept was using sets and set operations. I had to remember how to find the values that were in both sets or only in one set.
+2. No, I did not encounter any technical issues during this lab.
+3. I checked that the loop stops when n becomes 1. Each step changes n, and the loop condition is n > 1, so it eventually stops when n reaches 1.
